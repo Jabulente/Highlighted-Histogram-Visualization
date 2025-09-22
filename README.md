@@ -27,13 +27,16 @@ This repository showcases techniques for creating highlighted histograms to emph
 Here are some example visualizations demonstrating highlighted histograms:  
 
  **1. Standard Histogram with Highlighted Bins**
-![Standard Highlighted Histogram](images/standard_histogram.png)
+ 
+![Standard Highlighted Histogram](Images/standard_histogram.png)
 
  **2. Histogram with Custom Bins and Grid Styles**
-![Custom Bins Histogram](images/custom_bins_histogram.png)
+ 
+![Custom Bins Histogram](Images/custom_bins_histogram.png)
 
  **3. Emphasized Bins with Annotations**
-![Annotated Highlighted Histogram](images/annotated_histogram.png)
+ 
+![Annotated Highlighted Histogram](Images/annotated_histogram.png)
 
 
 ## 4. 📃 License
